@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,79440,t=>{"use strict";var e=t.i(3141);let r={};t.s(["useRefWithInit",0,function(t,u){let c=e.useRef(r);return c.current===r&&(c.current=t(u)),c}])}]);
