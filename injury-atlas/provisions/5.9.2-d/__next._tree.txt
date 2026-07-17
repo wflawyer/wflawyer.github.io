@@ -1,2 +1,2 @@
-:HL["/injury-atlas/_next/static/chunks/05xaz2jh028k9.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"provisions","param":null,"prefetchHints":0,"slots":{"children":{"name":"itemCode","param":{"type":"d","key":"5.9.2-d","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"AzmeIcGRvyBwelnxH6Tns"}
+:HL["/injury-atlas/_next/static/chunks/2olrfdqrbiggw.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"provisions","param":null,"prefetchHints":0,"slots":{"children":{"name":"itemCode","param":{"type":"d","key":"5.9.2-d","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"7L-SibHfORq3sAEjiWdr7"}
