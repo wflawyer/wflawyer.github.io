@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fatlas\u002F[regionCode]","\u002Fcases\u002F[caseId]","\u002Fprovisions\u002F[itemCode]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
