@@ -1,2 +1,2 @@
 :HL["/injury-atlas/_next/static/chunks/058ej2856-iox.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"admin","param":null,"prefetchHints":0,"slots":{"children":{"name":"standard-review","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"5cy_Cn_wN11m4tI5CW97I"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"admin","param":null,"prefetchHints":0,"slots":{"children":{"name":"standard-review","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Nr9b6QMoNHDxnDMmF1gDG"}
